@@ -1,2 +1,1 @@
-# kjhgf
-hgfrrwe
+The rules for articles in English involve using "a" and "an" for general, singular, countable nouns and "the" for specific, unique, or previously mentioned nouns. "A" is used before a consonant sound, and "an" is used before a vowel sound, regardless of whether the letter is a vowel or consonant. Articles are often omitted before plural or uncountable nouns when speaking generally, and also for certain proper nouns like names of coun
